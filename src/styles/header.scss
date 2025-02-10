@@ -1,0 +1,113 @@
+.header {
+  padding: 20px 66px;
+  background: linear-gradient(to right, #90d9ff, #ffd9ad);
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+
+    .menu {
+      list-style: none;
+      display: flex;
+      gap: 36px;
+      transition: all 0.3s ease-in-out;
+
+      li {
+        font-family: Inter;
+        font-weight: 700;
+        font-size: 18px;
+      }
+    }
+
+    .haeder-right {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+
+      button {
+        display: flex;
+        align-items: center;
+        background: linear-gradient(259.81deg, #2293d9 -2.46%, #22d97e 110.97%);
+        border-radius: 50px;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+
+        p {
+          color: #fff;
+          font-size: 16px;
+        }
+      }
+    }
+
+    .burger-menu {
+      display: none;
+      cursor: pointer;
+
+      .burger-icon {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+
+        span {
+          width: 100%;
+          height: 3px;
+          background: #333;
+          transition: all 0.3s ease-in-out;
+        }
+
+        &.open {
+          span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+          }
+          span:nth-child(2) {
+            opacity: 0;
+          }
+          span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+          }
+        }
+      }
+    }
+  }
+}
+
+// Медиа-запрос для мобильных устройств
+@media (max-width: 768px) {
+  .header {
+    padding: 15px 46px;
+    nav {
+      .menu {
+        position: absolute;
+        z-index: 999;
+        top: 55px;
+        left: 0;
+        width: 100%;
+        gap: 0;
+        flex-direction: column;
+        background: #fff;
+        padding: 10px;
+        margin: 0;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        display: none;
+      }
+
+      .menu.active {
+        display: flex;
+      }
+
+      .burger-menu {
+        display: block;
+      }
+      .header-right_id{
+        display: none;
+      }
+    }
+  }
+}

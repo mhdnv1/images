@@ -1,0 +1,755 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "http://www.milliondollarhomepage.com/index_files/image-map.png",
+      "alt": "Image 1",
+      "link": "https://example.com/1",
+      "height": 18,
+      "width": 36,
+      "coords": [0, 0]
+    },
+    {
+      "id": 2,
+      "src": "http://www.milliondollarhomepage.com/index_files/image-map.png",
+      "alt": "Image 2",
+      "link": "https://example.com/2",
+      "coords": [2, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 3,
+      "src": "https://drive.google.com/file/d/1cOtM8T3o0XlDjqUXZJJhdTjrDVi9tcW4/view?usp=drive_link",
+      "alt": "Image 3",
+      "link": "https://example.com/3",
+      "coords": [4, 0],
+      "height": 18,
+      "width": 18
+    },
+    {
+      "id": 4,
+      "src": "../src/assets/4.png",
+      "alt": "Image 4",
+      "link": "https://example.com/4",
+      "coords": [4, 1],
+      "height": 18,
+      "width": 18
+    },
+    {
+      "id": 5,
+      "src": "../src/assets/5.png",
+      "alt": "Image 5",
+      "link": "https://example.com/5",
+      "coords": [5, 0],
+      "height": 18,
+      "width": 54
+    },
+    {
+      "id": 6,
+      "src": "../src/assets/6.png",
+      "alt": "Image 6",
+      "link": "https://example.com/6",
+      "coords": [12, 1],
+      "height": 18,
+      "width": 36
+    },
+
+    {
+      "id": 7,
+      "src": "../src/assets/7.png",
+      "alt": "Image 7",
+      "link": "https://example.com/7",
+      "coords": [0, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 8,
+      "src": "../src/assets/8.png",
+      "alt": "Image 8",
+      "link": "https://example.com/8",
+      "coords": [0, 1],
+      "height": 18,
+      "width": 36
+    },
+
+    {
+      "id": 9,
+      "src": "../src/assets/9.png",
+      "alt": "Image 9",
+      "link": "https://example.com/9",
+      "coords": [22, 0],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 10,
+      "src": "../src/assets/10.png",
+      "alt": "Image 10",
+      "link": "https://example.com/10",
+      "coords": [9, 0],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 11,
+      "src": "../src/assets/11.png",
+      "alt": "Image 11",
+      "link": "https://example.com/11",
+      "coords": [9, 2],
+      "height": 36,
+      "width": 90
+    },
+
+    {
+      "id": 12,
+      "src": "../src/assets/12.png",
+      "alt": "Image 12",
+      "link": "https://example.com/12",
+      "coords": [14, 2],
+      "height": 36,
+      "width": 90
+    },
+
+    {
+      "id": 13,
+      "src": "../src/assets/13.png",
+      "alt": "Image 13",
+      "link": "https://example.com/13",
+      "coords": [6, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 14,
+      "src": "../src/assets/14.png",
+      "alt": "Image 14",
+      "link": "https://example.com/14",
+      "coords": [3, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 15,
+      "src": "../src/assets/15.png",
+      "alt": "Image 15",
+      "link": "https://example.com/15",
+      "coords": [8, 1],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 16,
+      "src": "../src/assets/16.png",
+      "alt": "Image 16",
+      "link": "https://example.com/16",
+      "coords": [8, 0],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 17,
+      "src": "../src/assets/17.png",
+      "alt": "Image 17",
+      "link": "https://example.com/17",
+      "coords": [12, 0],
+      "height": 18,
+      "width": 36
+    },
+
+    {
+      "id": 18,
+      "src": "../src/assets/18.png",
+      "alt": "Image 18",
+      "link": "https://example.com/18",
+      "coords": [14, 0],
+      "height": 54,
+      "width": 54
+    },
+
+    {
+      "id": 19,
+      "src": "../src/assets/19.png",
+      "alt": "Image 19",
+      "link": "https://example.com/19",
+      "coords": [17, 0],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 20,
+      "src": "../src/assets/20.png",
+      "alt": "Image 20",
+      "link": "https://example.com/20",
+      "coords": [17, 1],
+      "height": 36,
+      "width": 36
+    },
+
+    {
+      "id": 21,
+      "src": "../src/assets/21.png",
+      "alt": "Image 21",
+      "link": "https://example.com/21",
+      "coords": [18, 0],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 22,
+      "src": "../src/assets/22.png",
+      "alt": "Image 22",
+      "link": "https://example.com/22",
+      "coords": [19, 0],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 23,
+      "src": "../src/assets/23.png",
+      "alt": "Image 23",
+      "link": "https://example.com/23",
+      "coords": [19, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 24,
+      "src": "../src/assets/24.png",
+      "alt": "Image 24",
+      "link": "https://example.com/24",
+      "coords": [24, 0],
+      "height": 36,
+      "width": 72
+    },
+
+    {
+      "id": 25,
+      "src": "../src/assets/25.png",
+      "alt": "Image 25",
+      "link": "https://example.com/25",
+      "coords": [22, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 26,
+      "src": "../src/assets/26.png",
+      "alt": "Image 26",
+      "link": "https://example.com/26",
+      "coords": [25, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 27,
+      "src": "../src/assets/27.png",
+      "alt": "Image 27",
+      "link": "https://example.com/27",
+      "coords": [28, 0],
+      "height": 72,
+      "width": 252
+    },
+
+    {
+      "id": 28,
+      "src": "../src/assets/28.png",
+      "alt": "Image 28",
+      "link": "https://example.com/28",
+      "coords": [42, 0],
+      "height": 198,
+      "width": 54
+    },
+
+    {
+      "id": 29,
+      "src": "../src/assets/29.png",
+      "alt": "Image 29",
+      "link": "https://example.com/29",
+      "coords": [45, 0],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 30,
+      "src": "../src/assets/30.png",
+      "alt": "Image 30",
+      "link": "https://example.com/30",
+      "coords": [48, 0],
+      "height": 72,
+      "width": 72
+    },
+
+    {
+      "id": 31,
+      "src": "../src/assets/31.png",
+      "alt": "Image 31",
+      "link": "https://example.com/31",
+      "coords": [45, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 32,
+      "src": "../src/assets/32.png",
+      "alt": "Image 32",
+      "link": "https://example.com/32",
+      "coords": [50, 0],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 33,
+      "src": "../src/assets/33.png",
+      "alt": "Image 33",
+      "link": "https://example.com/33",
+      "coords": [54, 0],
+      "height": 36,
+      "width": 72
+    },
+    {
+      "id": 34,
+      "src": "../src/assets/34.png",
+      "alt": "Image 34",
+      "link": "https://example.com/34",
+      "coords": [58, 0],
+      "height": 126,
+      "width": 126
+    },
+    {
+      "id": 35,
+      "src": "../src/assets/35.png",
+      "alt": "Image 35",
+      "link": "https://example.com/35",
+      "coords": [65, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 36,
+      "src": "../src/assets/36.png",
+      "alt": "Image 36",
+      "link": "https://example.com/36",
+      "coords": [45, 4],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 37,
+      "src": "../src/assets/37.png",
+      "alt": "Image 37",
+      "link": "https://example.com/37",
+      "coords": [49, 4],
+      "height": 18,
+      "width": 36
+    },
+    {
+      "id": 38,
+      "src": "../src/assets/38.png",
+      "alt": "Image 38",
+      "link": "https://example.com/38",
+      "coords": [50, 4],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 39,
+      "src": "../src/assets/39.png",
+      "alt": "Image 39",
+      "link": "https://example.com/39",
+      "coords": [52, 4],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 40,
+      "src": "../src/assets/40.png",
+      "alt": "Image 40",
+      "link": "https://example.com/40",
+      "coords": [54, 2],
+      "height": 36,
+      "width": 72
+    },
+    {
+      "id": 41,
+      "src": "../src/assets/41.png",
+      "alt": "Image 41",
+      "link": "https://example.com/41",
+      "coords": [55, 4],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 42,
+      "src": "../src/assets/42.png",
+      "alt": "Image 42",
+      "link": "https://example.com/42",
+      "coords": [67, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 43,
+      "src": "../src/assets/43.png",
+      "alt": "Image 43",
+      "link": "https://example.com/43",
+      "coords": [69, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 44,
+      "src": "../src/assets/44.png",
+      "alt": "Image 44",
+      "link": "https://example.com/44",
+      "coords": [71, 0],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 45,
+      "src": "../src/assets/45.png",
+      "alt": "Image 45",
+      "link": "https://example.com/45",
+      "coords": [74, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 46,
+      "src": "../src/assets/46.png",
+      "alt": "Image 46",
+      "link": "https://example.com/46",
+      "coords": [5, 4],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 47,
+      "src": "../src/assets/47.png",
+      "alt": "Image 47",
+      "link": "https://example.com/47",
+      "coords": [9, 4],
+      "height": 36,
+      "width": 54
+    },
+    {
+      "id": 48,
+      "src": "../src/assets/48.png",
+      "alt": "Image 48",
+      "link": "https://example.com/48",
+      "coords": [12, 4],
+      "height": 36,
+      "width": 234
+    },
+    {
+      "id": 49,
+      "src": "../src/assets/49.png",
+      "alt": "Image 49",
+      "link": "https://example.com/49",
+      "coords": [24, 4],
+      "height": 18,
+      "width": 18
+    },
+    {
+      "id": 50,
+      "src": "../src/assets/50.png",
+      "alt": "Image 50",
+      "link": "https://example.com/50",
+      "coords": [24, 5],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 51,
+      "src": "../src/assets/51.png",
+      "alt": "Image 51",
+      "link": "https://example.com/51",
+      "coords": [25, 4],
+      "height": 18,
+      "width": 72
+    },
+    {
+      "id": 52,
+      "src": "../src/assets/52.png",
+      "alt": "Image 52",
+      "link": "https://example.com/52",
+      "coords": [29, 4],
+      "height": 34,
+      "width": 34
+    },
+    {
+      "id": 53,
+      "src": "../src/assets/53.png",
+      "alt": "Image 53",
+      "link": "https://example.com/53",
+      "coords": [31, 4],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 54,
+      "src": "../src/assets/54.png",
+      "alt": "Image 54",
+      "link": "https://example.com/54",
+      "coords": [34, 4],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 55,
+      "src": "../src/assets/55.png",
+      "alt": "Image 55",
+      "link": "https://example.com/55",
+      "coords": [38, 4],
+      "height": 54,
+      "width": 72
+    },
+    {
+      "id": 56,
+      "src": "../src/assets/56.png",
+      "alt": "Image 56",
+      "link": "https://example.com/56",
+      "coords": [65, 2],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 57,
+      "src": "../src/assets/57.png",
+      "alt": "Image 57",
+      "link": "https://example.com/57",
+      "coords": [65, 5],
+      "height": 108,
+      "width": 108
+    },
+    {
+      "id": 58,
+      "src": "../src/assets/58.png",
+      "alt": "Image 58",
+      "link": "https://example.com/58",
+      "coords": [68, 2],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 59,
+      "src": "../src/assets/59.png",
+      "alt": "Image 59",
+      "link": "https://example.com/59",
+      "coords": [76, 0],
+      "height": 54,
+      "width": 54
+    },
+    {
+      "id": 60,
+      "src": "../src/assets/60.png",
+      "alt": "Image 60",
+      "link": "https://example.com/60",
+      "coords": [79, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 61,
+      "src": "../src/assets/61.png",
+      "alt": "Image 61",
+      "link": "https://example.com/61",
+      "coords": [81, 0],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 62,
+      "src": "../src/assets/62.png",
+      "alt": "Image 62",
+      "link": "https://example.com/62",
+      "coords": [85, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 63,
+      "src": "../src/assets/63.png",
+      "alt": "Image 63",
+      "link": "https://example.com/63",
+      "coords": [87, 0],
+      "height": 18,
+      "width": 36
+    },
+    {
+      "id": 64,
+      "src": "../src/assets/64.png",
+      "alt": "Image 64",
+      "link": "https://example.com/64",
+      "coords": [89, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 65,
+      "src": "../src/assets/65.png",
+      "alt": "Image 65",
+      "link": "https://example.com/65",
+      "coords": [91, 0],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 66,
+      "src": "../src/assets/66.png",
+      "alt": "Image 66",
+      "link": "https://example.com/66",
+      "coords": [95, 0],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 67,
+      "src": "../src/assets/67.png",
+      "alt": "Image 67",
+      "link": "https://example.com/67",
+      "coords": [97, 0],
+      "height": 18,
+      "width": 36
+    },
+    {
+      "id": 68,
+      "src": "../src/assets/68.png",
+      "alt": "Image 68",
+      "link": "https://example.com/68",
+      "coords": [97, 1],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 69,
+      "src": "../src/assets/69.png",
+      "alt": "Image 69",
+      "link": "https://example.com/69",
+      "coords": [97,3],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 70,
+      "src": "../src/assets/70.png",
+      "alt": "Image 70",
+      "link": "https://example.com/70",
+      "coords": [95, 2],
+      "height": 36,
+      "width": 36
+    },
+    {
+      "id": 71,
+      "src": "../src/assets/71.png",
+      "alt": "Image 71",
+      "link": "https://example.com/71",
+      "coords": [71, 3],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 72,
+      "src": "../src/assets/72.png",
+      "alt": "Image 72",
+      "link": "https://example.com/72",
+      "coords": [75, 3],
+      "height": 72,
+      "width": 72
+    },
+    {
+      "id": 73,
+      "src": "../src/assets/73.png",
+      "alt": "Image 73",
+      "link": "https://example.com/73",
+      "coords": [74, 2],
+      "height": 18,
+      "width": 36
+    },
+    {
+      "id": 74,
+      "src": "../src/assets/74.png",
+      "alt": "Image 74",
+      "link": "https://example.com/74",
+      "coords": [88, 2],
+      "height": 36,
+      "width": 54
+    },
+    {
+      "id": 75,
+      "src": "../src/assets/75.png",
+      "alt": "Image 75",
+      "link": "https://example.com/75",
+      "coords": [79, 2],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 76,
+      "src": "../src/assets/76.png",
+      "alt": "Image 76",
+      "link": "https://example.com/76",
+      "coords": [80, 2],
+      "height": 18,
+      "width": 18
+    },
+
+    {
+      "id": 77,
+      "src": "../src/assets/77.png",
+      "alt": "Image 77",
+      "link": "https://example.com/77",
+      "coords": [79, 4],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 78,
+      "src": "../src/assets/78.png",
+      "alt": "Image 78",
+      "link": "https://example.com/78",
+      "coords": [79, 3],
+      "height": 18,
+      "width": 36
+    },
+
+    {
+      "id": 79,
+      "src": "../src/assets/79.png",
+      "alt": "Image 79",
+      "link": "https://example.com/79",
+      "coords": [85, 2],
+      "height": 36,
+      "width": 54
+    },
+
+    {
+      "id": 80,
+      "src": "../src/assets/80.png",
+      "alt": "Image 80",
+      "link": "https://example.com/80",
+      "coords": [87, 1],
+      "height": 18,
+      "width": 36
+    }
+  ]
+}
